@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-13 04:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-13 04:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-03-13 03:53:46 +0000"
@@ -62,6 +74,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-03-13 03:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-03-13 04:08:10 +0000"
     },
     "done": true
   },
@@ -152,6 +170,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-03-13 03:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-13 04:07:21 +0000"
     },
     "done": true
   },

@@ -259,3 +259,28 @@
 [04:07:35] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Relaaan]
 [04:07:55] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
 [04:07:55] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:07:56] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[04:07:56] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[04:07:58] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to GalixA]
+[04:08:04] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[04:08:33] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
+[04:09:07] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[04:09:09] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[04:09:36] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
+[04:13:30] [Server thread/INFO]: GalixA was slain by D4NNI1
+[04:13:32] [Server thread/INFO]: Relaaan was slain by D4NNI1
+[04:13:42] [Server thread/INFO]: Relaaan was killed by magic
+[04:13:42] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to GalixA]
+[04:13:49] [Server thread/INFO]: Relaaan was killed by magic
+[04:14:02] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[04:14:04] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[04:14:14] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[04:14:16] [Server thread/INFO]: Relaaan was killed by magic
+[04:14:25] [Server thread/INFO]: Relaaan was killed by magic
+[04:14:33] [Server thread/INFO]: D4NNI1 lost connection: Disconnected
+[04:14:33] [Server thread/INFO]: D4NNI1 left the game
+[04:14:42] [Server thread/INFO]: Relaaan was killed by magic
+[04:14:45] [Server thread/INFO]: Relaaan lost connection: Disconnected
+[04:14:45] [Server thread/INFO]: Relaaan left the game
+[04:14:57] [Server thread/INFO]: GalixA lost connection: Disconnected
+[04:14:57] [Server thread/INFO]: GalixA left the game
