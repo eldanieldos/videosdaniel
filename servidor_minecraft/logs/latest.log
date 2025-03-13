@@ -1,104 +1,137 @@
-[04:16:24] [main/INFO]: Loading Minecraft 1.20.2 with Fabric Loader 0.16.3
-[04:16:24] [main/INFO]: Loading 51 mods:
-	- cardinal-components 5.3.0
-	   |-- cardinal-components-base 5.3.0
-	   |-- cardinal-components-block 5.3.0
-	   |-- cardinal-components-chunk 5.3.0
-	   |-- cardinal-components-entity 5.3.0
-	   |-- cardinal-components-item 5.3.0
-	   |-- cardinal-components-level 5.3.0
-	   |-- cardinal-components-scoreboard 5.3.0
-	   \-- cardinal-components-world 5.3.0
-	- fabric-api 0.91.6+1.20.2
-	   |-- fabric-api-base 0.4.33+fce67b32a0
-	   |-- fabric-api-lookup-api-v1 1.6.43+b1792f7da0
-	   |-- fabric-biome-api-v1 13.0.14+b1792f7da0
-	   |-- fabric-block-api-v1 1.0.12+73761d2ea0
-	   |-- fabric-block-view-api-v2 1.0.1+73761d2ea0
-	   |-- fabric-blockrenderlayer-v1 1.1.43+f4b7e424a0
-	   |-- fabric-client-tags-api-v1 1.1.4+86b12645a0
-	   |-- fabric-command-api-v1 1.2.37+f71b366fa0
-	   |-- fabric-command-api-v2 2.2.16+b1792f7da0
-	   |-- fabric-commands-v0 0.2.54+df3654b3a0
-	   |-- fabric-containers-v0 0.1.81+df3654b3a0
-	   |-- fabric-content-registries-v0 5.0.6+b1792f7da0
-	   |-- fabric-convention-tags-v1 1.5.8+b1792f7da0
-	   |-- fabric-crash-report-info-v1 0.2.20+f4b7e424a0
-	   |-- fabric-data-generation-api-v1 13.1.11+b1792f7da0
-	   |-- fabric-dimensions-v1 2.1.57+b1792f7da0
-	   |-- fabric-entity-events-v1 1.5.26+b1792f7da0
-	   |-- fabric-events-interaction-v0 0.6.10+b1792f7da0
-	   |-- fabric-events-lifecycle-v0 0.2.70+df3654b3a0
-	   |-- fabric-game-rule-api-v1 1.0.42+a44e16a6a0
-	   |-- fabric-item-api-v1 2.1.33+b1792f7da0
-	   |-- fabric-item-group-api-v1 4.0.15+e3d2bf3fa0
-	   |-- fabric-key-binding-api-v1 1.0.38+f4b7e424a0
-	   |-- fabric-keybindings-v0 0.2.36+df3654b3a0
-	   |-- fabric-lifecycle-events-v1 2.2.28+c8b10480a0
-	   |-- fabric-loot-api-v2 2.1.1+3ba460fba0
-	   |-- fabric-message-api-v1 6.0.2+e3d2bf3fa0
-	   |-- fabric-mining-level-api-v1 2.1.56+f4b7e424a0
-	   |-- fabric-model-loading-api-v1 1.0.6+b1792f7da0
-	   |-- fabric-models-v0 0.4.5+9386d8a7a0
-	   |-- fabric-networking-api-v1 3.1.5+f4be560ba0
-	   |-- fabric-object-builder-api-v1 12.1.2+2ff98d3ba0
-	   |-- fabric-particles-v1 1.1.4+f4b7e424a0
-	   |-- fabric-recipe-api-v1 2.0.14+52b3ebe5a0
-	   |-- fabric-registry-sync-v0 4.0.12+b1792f7da0
-	   |-- fabric-renderer-api-v1 3.2.1+2034447ca0
-	   |-- fabric-renderer-indigo 1.5.1+2034447ca0
-	   |-- fabric-renderer-registries-v1 3.2.49+df3654b3a0
-	   |-- fabric-rendering-data-attachment-v1 0.3.39+73761d2ea0
-	   |-- fabric-rendering-fluids-v1 3.0.30+f4b7e424a0
-	   |-- fabric-rendering-v0 1.1.52+df3654b3a0
-	   |-- fabric-rendering-v1 3.0.11+b1792f7da0
-	   |-- fabric-resource-conditions-api-v1 2.3.11+239dafd8a0
-	   |-- fabric-resource-loader-v0 0.11.12+b1792f7da0
-	   |-- fabric-screen-api-v1 2.0.12+b1792f7da0
-	   |-- fabric-screen-handler-api-v1 1.3.47+b1792f7da0
-	   |-- fabric-sound-api-v1 1.0.14+f4b7e424a0
-	   |-- fabric-transfer-api-v1 3.3.13+4944b5a5a0
-	   \-- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
+[02:14:04] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[02:14:05] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
-	- java 21
-	- minecraft 1.20.2
-	- wyr 1.0.0
-	   |-- cardinal-components-entity 5.3.0
-	   |-- cardinal-components-level 5.3.0
-	   \-- cardinal-components-world 5.3.0
-[04:16:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/videosdaniel/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[04:16:24] [main/INFO]: Compatibility level set to JAVA_16
-[04:16:24] [main/INFO]: Compatibility level set to JAVA_17
-[04:16:25] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
-[04:16:25] [main/WARN]: @Mixin target net.minecraft.class_310 was not found wyr.mixins.json:client.MinecraftClientMixin from mod wyr
-[04:16:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[04:16:32] [main/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:16:33] [main/INFO]: Loaded 7 recipes
-[04:16:33] [main/INFO]: Loaded 1271 advancements
-[04:16:34] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.391 ms
-[04:16:34] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[04:16:34] [Server thread/INFO]: Loading properties
-[04:16:34] [Server thread/INFO]: Default game type: SURVIVAL
-[04:16:34] [Server thread/INFO]: Generating keypair
-[04:16:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:16:34] [Server thread/INFO]: Using epoll channel type
-[04:16:34] [Server thread/INFO]: Preparing level "world"
-[04:16:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:16:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:16:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:16:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:16:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:16:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:16:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:16:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:16:40] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[04:16:40] [Server thread/INFO]: Time elapsed: 3851 ms
-[04:16:40] [Server thread/INFO]: Done (6.247s)! For help, type "help"
-[04:19:20] [User Authenticator #1/INFO]: UUID of player D4NNI1 is 30212862-edb7-4632-9904-33933410e508
-[04:19:23] [Server thread/INFO]: D4NNI1[/127.152.27.164:54733] logged in with entity id 230 at (341.5, 71.0, 401.5)
-[04:19:23] [Server thread/INFO]: D4NNI1 joined the game
-[04:19:46] [Server thread/INFO]: Made D4NNI1 a server operator
-[04:20:41] [Server thread/INFO]: [D4NNI1: Set the time to 1000]
-[04:25:08] [Server thread/INFO]: D4NNI1 lost connection: Disconnected
-[04:25:08] [Server thread/INFO]: D4NNI1 left the game
+	- java 17
+	- minecraft 1.20.1
+[02:14:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/videosdaniel/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:14:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:14:12] [main/INFO]: Loaded 7 recipes
+[02:14:12] [main/INFO]: Loaded 1271 advancements
+[02:14:12] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:14:12] [Server thread/INFO]: Loading properties
+[02:14:12] [Server thread/INFO]: Default game type: SURVIVAL
+[02:14:12] [Server thread/INFO]: Generating keypair
+[02:14:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:14:12] [Server thread/INFO]: Using epoll channel type
+[02:14:13] [Server thread/INFO]: Preparing level "world"
+[02:14:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:14:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:14:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:14:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:14:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:14:16] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[02:14:16] [Server thread/INFO]: Time elapsed: 3419 ms
+[02:14:16] [Server thread/INFO]: Done (3.571s)! For help, type "help"
+[02:14:16] [Server thread/ERROR]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:502) ~[guava-31.1-jre.jar:?]
+	at net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:792) ~[server-intermediary.jar:?]
+	at java.util.Optional.flatMap(Optional.java:289) ~[?:?]
+	at net.minecraft.server.MinecraftServer.method_49384(MinecraftServer.java:789) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:649) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:16:16] [User Authenticator #1/INFO]: UUID of player Xanec_UwU is 88a4bc94-2f41-44db-88ca-afcbb559702b
+[02:16:16] [Server thread/INFO]: Xanec_UwU[/127.137.215.182:45773] logged in with entity id 7 at (3.5, 4.0, 12.5)
+[02:16:16] [Server thread/INFO]: Xanec_UwU joined the game
+[02:16:21] [User Authenticator #2/INFO]: UUID of player D4NNI1 is 30212862-edb7-4632-9904-33933410e508
+[02:16:21] [Server thread/INFO]: D4NNI1[/127.14.216.183:44621] logged in with entity id 8 at (-193.62216899081656, 14.0, 273.41911284574434)
+[02:16:21] [Server thread/INFO]: D4NNI1 joined the game
+[02:16:21] [User Authenticator #3/INFO]: UUID of player Felinel9 is 72778f8f-0712-4aae-9dce-1e0bb8b9f49c
+[02:16:21] [Server thread/INFO]: Felinel9[/127.205.115.17:40541] logged in with entity id 11 at (7.5, 4.0, 14.5)
+[02:16:21] [Server thread/INFO]: Felinel9 joined the game
+[02:16:47] [Server thread/INFO]: A player is required to run this command here
+[02:16:56] [Server thread/INFO]: Made D4NNI1 a server operator
+[02:16:59] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:17:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:17:03] [Server thread/INFO]: Felinel9 fell out of the world
+[02:17:07] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:17:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=3, z=3}
+[02:17:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=3, z=3}
+[02:17:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
+[02:17:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
+[02:17:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
+[02:17:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
+[02:17:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=3, z=-2}
+[02:17:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=3, z=0}
+[02:17:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=5, y=3, z=0}
+[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=5, y=3, z=0}
+[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=5, y=3, z=0}
+[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
+[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
+[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
+[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
+[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
+[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
+[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=4, z=0}
+[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=3, z=3}
+[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
+[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=4, z=0}
+[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=3, z=3}
+[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
+[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
+[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=4, z=0}
+[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=4, z=0}
+[02:17:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
+[02:17:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=3, z=3}
+[02:17:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
+[02:17:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
+[02:17:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
+[02:17:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=0}
+[02:17:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=0}
+[02:17:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=4, y=3, z=3}
+[02:17:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
+[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=3, z=3}
+[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=3, z=3}
+[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
+[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
+[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
+[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
+[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
+[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
+[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
+[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
+[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
+[02:17:19] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
+[02:17:31] [Server thread/INFO]: Felinel9 fell out of the world
+[02:17:35] [Server thread/WARN]: D4NNI1 moved too quickly! -0.07163563351505786,-16.101214668488822,0.0
+[02:17:40] [Server thread/INFO]: D4NNI1 fell out of the world
+[02:17:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=7, y=3, z=11}
+[02:17:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=3, z=11}
+[02:17:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=3, z=10}
+[02:17:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=3, z=4}
+[02:17:45] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:17:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=3, z=4}
+[02:17:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=3, z=5}
+[02:17:53] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
+[02:18:01] [Server thread/INFO]: Xanec_UwU fell out of the world
+[02:18:08] [Server thread/INFO]: [D4NNI1: Set spawn point to -136, 10, 286 [0.0] in minecraft:overworld for 3 players]
+[02:18:12] [Server thread/INFO]: [D4NNI1: Set spawn point to -136, 10, 286 [0.0] in minecraft:overworld for 3 players]
+[02:18:18] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
+[02:18:46] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:18:52] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:19:18] [Server thread/INFO]: Xanec_UwU was slain by Felinel9
+[02:19:23] [Server thread/INFO]: Felinel9 was slain by Xanec_UwU
+[02:19:36] [Server thread/INFO]: [D4NNI1: Gamerule keepInventory is now set to: false]
+[02:20:27] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:20:36] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:20:36] [Server thread/INFO]: [D4NNI1: Set Xanec_UwU's game mode to Adventure Mode]
+[02:20:36] [Server thread/INFO]: [D4NNI1: Set Felinel9's game mode to Adventure Mode]
+[02:20:42] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:22:18] [Server thread/INFO]: Felinel9 lost connection: Disconnected
+[02:22:18] [Server thread/INFO]: Felinel9 left the game
+[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.3894068787579954
+[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.4705206059292095
+[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.5557748416518962
+[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.6433596845917009
+[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.7321915889860406
+[02:22:32] [User Authenticator #4/INFO]: UUID of player Felinel9 is 72778f8f-0712-4aae-9dce-1e0bb8b9f49c
+[02:22:32] [Server thread/INFO]: Felinel9[/127.205.115.17:36759] logged in with entity id 97 at (-141.92500001192093, 10.324999982118607, 285.92500001192093)
+[02:22:32] [Server thread/INFO]: Felinel9 joined the game
+[02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
