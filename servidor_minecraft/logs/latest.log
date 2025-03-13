@@ -302,3 +302,43 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02:44:14] [Server thread/INFO]: Felinel9 was killed by magic
 [02:44:17] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
 [02:44:27] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
+[02:44:35] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:46:13] [Server thread/WARN]: D4NNI1 moved too quickly! -10.007731886301045,0.0,-0.21293854308504478
+[02:46:16] [Server thread/WARN]: D4NNI1 moved too quickly! -10.45362398375805,0.0,2.1088698246308013
+[02:46:26] [Server thread/WARN]: D4NNI1 moved too quickly! -10.25124665678429,0.0,0.21466054749799923
+[02:46:41] [Server thread/INFO]: [D4NNI1: Set spawn point to -137, 10, 286 [0.0] in minecraft:overworld for 3 players]
+[02:46:47] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
+[02:46:51] [Server thread/INFO]: [D4NNI1: Removed 1 item(s) from player D4NNI1]
+[02:46:57] [Server thread/INFO]: [D4NNI1: Removed 1 item(s) from 3 players]
+[02:47:04] [Server thread/INFO]: Xanec_UwU fell out of the world
+[02:47:18] [Server thread/INFO]: Felinel9 fell out of the world
+[02:47:25] [Server thread/WARN]: D4NNI1 moved too quickly! -0.8366021138438384,1.23059300732241,-10.132852184194462
+[02:47:27] [Server thread/WARN]: D4NNI1 moved too quickly! -6.108768008930809,0.0,-8.215217350601336
+[02:48:34] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:48:38] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:48:44] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:48:50] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:49:34] [Server thread/WARN]: D4NNI1 moved too quickly! 10.735794867121546,0.0,1.7284921344732425
+[02:49:39] [Server thread/WARN]: D4NNI1 moved too quickly! 7.995036941509412,0.0,7.325096574741394
+[02:49:45] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:49:47] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:50:48] [Server thread/INFO]: Felinel9 tried to swim in lava
+[02:51:46] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:51:51] [Server thread/WARN]: D4NNI1 moved too quickly! -11.18735783936657,0.0,0.6958192105452667
+[02:52:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:52:03] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:52:09] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:52:16] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:52:28] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:52:29] [Server thread/INFO]: Xanec_UwU lost connection: Disconnected
+[02:52:29] [Server thread/INFO]: Xanec_UwU left the game
+[02:52:43] [Server thread/INFO]: [D4NNI1: Teleported 2 entities to D4NNI1]
+[02:53:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[02:53:25] [Server thread/INFO]: [D4NNI1: Successfully filled 3 block(s)]
+[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 4.107752954424228
+[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.952218327155805
+[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.8466563539480774
+[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.793575370855251
+[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.724982100926951
+[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.6679182211948103
+[02:54:20] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.660657218997841
