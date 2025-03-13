@@ -1,344 +1,73 @@
-[02:14:04] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[02:14:05] [main/INFO]: Loading 4 mods:
+[03:15:32] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[03:15:32] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 17
 	- minecraft 1.20.1
-[02:14:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/videosdaniel/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:14:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:14:12] [main/INFO]: Loaded 7 recipes
-[02:14:12] [main/INFO]: Loaded 1271 advancements
-[02:14:12] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:14:12] [Server thread/INFO]: Loading properties
-[02:14:12] [Server thread/INFO]: Default game type: SURVIVAL
-[02:14:12] [Server thread/INFO]: Generating keypair
-[02:14:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:14:12] [Server thread/INFO]: Using epoll channel type
-[02:14:13] [Server thread/INFO]: Preparing level "world"
-[02:14:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:14:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:14:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:14:16] [Worker-Main-3/INFO]: Preparing spawn area: 22%
-[02:14:16] [Server thread/INFO]: Time elapsed: 3419 ms
-[02:14:16] [Server thread/INFO]: Done (3.571s)! For help, type "help"
-[02:14:16] [Server thread/ERROR]: Couldn't load server icon
-java.lang.IllegalStateException: Must be 64 pixels wide
-	at com.google.common.base.Preconditions.checkState(Preconditions.java:502) ~[guava-31.1-jre.jar:?]
-	at net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:792) ~[server-intermediary.jar:?]
-	at java.util.Optional.flatMap(Optional.java:289) ~[?:?]
-	at net.minecraft.server.MinecraftServer.method_49384(MinecraftServer.java:789) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:649) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[02:16:16] [User Authenticator #1/INFO]: UUID of player Xanec_UwU is 88a4bc94-2f41-44db-88ca-afcbb559702b
-[02:16:16] [Server thread/INFO]: Xanec_UwU[/127.137.215.182:45773] logged in with entity id 7 at (3.5, 4.0, 12.5)
-[02:16:16] [Server thread/INFO]: Xanec_UwU joined the game
-[02:16:21] [User Authenticator #2/INFO]: UUID of player D4NNI1 is 30212862-edb7-4632-9904-33933410e508
-[02:16:21] [Server thread/INFO]: D4NNI1[/127.14.216.183:44621] logged in with entity id 8 at (-193.62216899081656, 14.0, 273.41911284574434)
-[02:16:21] [Server thread/INFO]: D4NNI1 joined the game
-[02:16:21] [User Authenticator #3/INFO]: UUID of player Felinel9 is 72778f8f-0712-4aae-9dce-1e0bb8b9f49c
-[02:16:21] [Server thread/INFO]: Felinel9[/127.205.115.17:40541] logged in with entity id 11 at (7.5, 4.0, 14.5)
-[02:16:21] [Server thread/INFO]: Felinel9 joined the game
-[02:16:47] [Server thread/INFO]: A player is required to run this command here
-[02:16:56] [Server thread/INFO]: Made D4NNI1 a server operator
-[02:16:59] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:17:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:17:03] [Server thread/INFO]: Felinel9 fell out of the world
-[02:17:07] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:17:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=3, z=3}
-[02:17:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=3, z=3}
-[02:17:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
-[02:17:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
-[02:17:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
-[02:17:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
-[02:17:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=3, z=-2}
-[02:17:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=3, z=0}
-[02:17:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=5, y=3, z=0}
-[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=5, y=3, z=0}
-[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=5, y=3, z=0}
-[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
-[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
-[02:17:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
-[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
-[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
-[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
-[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=4, z=0}
-[02:17:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=3, z=3}
-[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
-[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=4, z=0}
-[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=3, z=3}
-[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
-[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
-[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=4, z=0}
-[02:17:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=4, z=0}
-[02:17:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
-[02:17:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=3, z=3}
-[02:17:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=3, z=0}
-[02:17:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
-[02:17:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
-[02:17:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=0}
-[02:17:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=0}
-[02:17:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=4, y=3, z=3}
-[02:17:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
-[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=3, z=3}
-[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=3, y=3, z=3}
-[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
-[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
-[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=3}
-[02:17:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
-[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
-[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
-[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
-[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
-[02:17:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=1, y=3, z=3}
-[02:17:19] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
-[02:17:31] [Server thread/INFO]: Felinel9 fell out of the world
-[02:17:35] [Server thread/WARN]: D4NNI1 moved too quickly! -0.07163563351505786,-16.101214668488822,0.0
-[02:17:40] [Server thread/INFO]: D4NNI1 fell out of the world
-[02:17:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=7, y=3, z=11}
-[02:17:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=3, z=11}
-[02:17:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=3, z=10}
-[02:17:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=3, z=4}
-[02:17:45] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:17:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=3, z=4}
-[02:17:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=3, z=5}
-[02:17:53] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
-[02:18:01] [Server thread/INFO]: Xanec_UwU fell out of the world
-[02:18:08] [Server thread/INFO]: [D4NNI1: Set spawn point to -136, 10, 286 [0.0] in minecraft:overworld for 3 players]
-[02:18:12] [Server thread/INFO]: [D4NNI1: Set spawn point to -136, 10, 286 [0.0] in minecraft:overworld for 3 players]
-[02:18:18] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
-[02:18:46] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:18:52] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:19:18] [Server thread/INFO]: Xanec_UwU was slain by Felinel9
-[02:19:23] [Server thread/INFO]: Felinel9 was slain by Xanec_UwU
-[02:19:36] [Server thread/INFO]: [D4NNI1: Gamerule keepInventory is now set to: false]
-[02:20:27] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:20:36] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:20:36] [Server thread/INFO]: [D4NNI1: Set Xanec_UwU's game mode to Adventure Mode]
-[02:20:36] [Server thread/INFO]: [D4NNI1: Set Felinel9's game mode to Adventure Mode]
-[02:20:42] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:22:18] [Server thread/INFO]: Felinel9 lost connection: Disconnected
-[02:22:18] [Server thread/INFO]: Felinel9 left the game
-[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.3894068787579954
-[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.4705206059292095
-[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.5557748416518962
-[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.6433596845917009
-[02:22:31] [Server thread/WARN]: Pig (vehicle of Xanec_UwU) moved wrongly! 0.7321915889860406
-[02:22:32] [User Authenticator #4/INFO]: UUID of player Felinel9 is 72778f8f-0712-4aae-9dce-1e0bb8b9f49c
-[02:22:32] [Server thread/INFO]: Felinel9[/127.205.115.17:36759] logged in with entity id 97 at (-141.92500001192093, 10.324999982118607, 285.92500001192093)
-[02:22:32] [Server thread/INFO]: Felinel9 joined the game
-[02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:24:08] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:24:13] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:24:48] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:24:49] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:24:59] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:25:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:25:01] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:25:31] [Server thread/INFO]: [D4NNI1: Successfully filled 3 block(s)]
-[02:26:43] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:26:53] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:27:27] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:27:32] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:27:56] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:28:03] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:28:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:28:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:28:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:28:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:28:32] [Server thread/INFO]: [D4NNI1: The difficulty has been set to Peaceful]
-[02:28:34] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:28:41] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:28:48] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:28:52] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:28:53] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:29:03] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:29:10] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:29:13] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:29:22] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:29:32] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:29:38] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:29:50] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:29:55] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:30:00] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:30:03] [Server thread/INFO]: Felinel9 tried to swim in lava
-[02:30:08] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:30:28] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:30:32] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:30:51] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[02:30:51] [Server thread/INFO]: [D4NNI1: Set Xanec_UwU's game mode to Survival Mode]
-[02:30:51] [Server thread/INFO]: [D4NNI1: Set Felinel9's game mode to Survival Mode]
-[02:30:53] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:31:06] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:31:10] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:31:21] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:31:37] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:31:59] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:32:06] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:32:11] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:32:18] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:32:30] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:32:40] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:32:41] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:32:51] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:32:55] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[02:33:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:33:01] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:33:09] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:33:24] [Server thread/WARN]: D4NNI1 moved too quickly! 10.328472390489928,0.0,-0.5348526802761029
-[02:33:32] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:33:35] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[02:33:36] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:33:38] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:33:38] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:33:45] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:33:51] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:33:59] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:34:02] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:34:04] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:34:06] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:34:10] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:34:17] [Server thread/INFO]: Felinel9 was killed by magic
-[02:34:19] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:34:25] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:34:36] [Server thread/INFO]: Felinel9 was killed by magic
-[02:34:44] [Server thread/INFO]: Felinel9 was killed by magic
-[02:34:46] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:34:51] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:34:55] [Server thread/INFO]: [D4NNI1: Teleported Xanec_UwU to D4NNI1]
-[02:34:56] [Server thread/INFO]: Felinel9 was killed by magic whilst trying to escape Xanec_UwU
-[02:35:14] [Server thread/INFO]: Felinel9 was killed by magic
-[02:35:20] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:35:24] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:35:26] [Server thread/INFO]: Felinel9 was killed by magic
-[02:35:26] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:35:34] [Server thread/INFO]: Felinel9 was killed by magic
-[02:35:42] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:35:49] [Server thread/INFO]: Felinel9 was killed by magic
-[02:35:51] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:35:59] [Server thread/INFO]: Felinel9 was killed by magic
-[02:36:01] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:36:11] [Server thread/INFO]: Felinel9 was killed by magic
-[02:36:22] [Server thread/INFO]: Felinel9 was killed by magic
-[02:36:30] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:36:35] [Server thread/INFO]: Felinel9 was killed by magic
-[02:36:47] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:36:48] [Server thread/INFO]: Felinel9 was killed by magic
-[02:36:53] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:36:57] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:36:58] [Server thread/INFO]: Felinel9 was killed by magic
-[02:36:58] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:37:05] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:37:08] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:37:14] [Server thread/INFO]: Felinel9 was killed by magic
-[02:37:17] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:37:18] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:37:23] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:37:37] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:37:42] [Server thread/INFO]: Felinel9 was killed by magic
-[02:37:49] [Server thread/INFO]: Felinel9 was killed by magic
-[02:38:01] [Server thread/INFO]: Xanec_UwU has reached the goal [Sky's the Limit]
-[02:38:06] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:38:06] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:38:07] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:38:26] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:38:39] [Server thread/INFO]: Felinel9 has reached the goal [Sky's the Limit]
-[02:38:46] [Server thread/INFO]: Felinel9 was killed by magic
-[02:39:01] [Server thread/INFO]: Felinel9 was killed by magic
-[02:39:17] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:39:18] [Server thread/INFO]: Felinel9 was killed by magic
-[02:39:37] [Server thread/INFO]: Xanec_UwU has made the advancement [Ice Bucket Challenge]
-[02:39:37] [Server thread/INFO]: Felinel9 was killed by magic
-[02:39:39] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:39:39] [Server thread/INFO]: [D4NNI1: Set Xanec_UwU's game mode to Adventure Mode]
-[02:39:39] [Server thread/INFO]: [D4NNI1: Set Felinel9's game mode to Adventure Mode]
-[02:39:42] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:39:47] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:39:58] [Server thread/INFO]: Felinel9 was killed by magic
-[02:40:05] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
-[02:40:07] [Server thread/INFO]: Felinel9 was killed by magic
-[02:40:26] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:40:29] [Server thread/INFO]: Felinel9 was killed by magic
-[02:40:33] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:40:33] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:40:37] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
-[02:40:40] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:40:50] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:40:53] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:40:53] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:40:55] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:41:02] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:41:05] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:41:06] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:41:09] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:41:11] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:41:27] [Server thread/INFO]: Felinel9 has made the advancement [Ice Bucket Challenge]
-[02:41:38] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
-[02:41:51] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
-[02:42:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[02:42:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[02:42:06] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
-[02:42:20] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
-[02:42:29] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:42:41] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:43:34] [Server thread/INFO]: [D4NNI1: The difficulty has been set to Hard]
-[02:43:45] [Server thread/INFO]: Xanec_UwU has made the advancement [Sneak 100]
-[02:43:47] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:43:49] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:43:51] [Server thread/INFO]: Felinel9 was slain by Warden
-[02:43:56] [Server thread/INFO]: Xanec_UwU was slain by Warden
-[02:44:02] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:44:04] [Server thread/WARN]: D4NNI1 moved too quickly! 0.24625492193027299,-11.026982712340192,0.5838002457035145
-[02:44:04] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:44:13] [Server thread/INFO]: Xanec_UwU was killed by magic
-[02:44:13] [Server thread/INFO]: [D4NNI1: The difficulty has been set to Peaceful]
-[02:44:14] [Server thread/INFO]: Felinel9 was killed by magic
-[02:44:17] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
-[02:44:27] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
-[02:44:35] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:46:13] [Server thread/WARN]: D4NNI1 moved too quickly! -10.007731886301045,0.0,-0.21293854308504478
-[02:46:16] [Server thread/WARN]: D4NNI1 moved too quickly! -10.45362398375805,0.0,2.1088698246308013
-[02:46:26] [Server thread/WARN]: D4NNI1 moved too quickly! -10.25124665678429,0.0,0.21466054749799923
-[02:46:41] [Server thread/INFO]: [D4NNI1: Set spawn point to -137, 10, 286 [0.0] in minecraft:overworld for 3 players]
-[02:46:47] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
-[02:46:51] [Server thread/INFO]: [D4NNI1: Removed 1 item(s) from player D4NNI1]
-[02:46:57] [Server thread/INFO]: [D4NNI1: Removed 1 item(s) from 3 players]
-[02:47:04] [Server thread/INFO]: Xanec_UwU fell out of the world
-[02:47:18] [Server thread/INFO]: Felinel9 fell out of the world
-[02:47:25] [Server thread/WARN]: D4NNI1 moved too quickly! -0.8366021138438384,1.23059300732241,-10.132852184194462
-[02:47:27] [Server thread/WARN]: D4NNI1 moved too quickly! -6.108768008930809,0.0,-8.215217350601336
-[02:48:34] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:48:38] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:48:44] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:48:50] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:49:34] [Server thread/WARN]: D4NNI1 moved too quickly! 10.735794867121546,0.0,1.7284921344732425
-[02:49:39] [Server thread/WARN]: D4NNI1 moved too quickly! 7.995036941509412,0.0,7.325096574741394
-[02:49:45] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:49:47] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:50:48] [Server thread/INFO]: Felinel9 tried to swim in lava
-[02:51:46] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:51:51] [Server thread/WARN]: D4NNI1 moved too quickly! -11.18735783936657,0.0,0.6958192105452667
-[02:52:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:52:03] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:52:09] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:52:16] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[02:52:28] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[02:52:29] [Server thread/INFO]: Xanec_UwU lost connection: Disconnected
-[02:52:29] [Server thread/INFO]: Xanec_UwU left the game
-[02:52:43] [Server thread/INFO]: [D4NNI1: Teleported 2 entities to D4NNI1]
-[02:53:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[02:53:25] [Server thread/INFO]: [D4NNI1: Successfully filled 3 block(s)]
-[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 4.107752954424228
-[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.952218327155805
-[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.8466563539480774
-[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.793575370855251
-[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.724982100926951
-[02:54:19] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.6679182211948103
-[02:54:20] [Server thread/WARN]: Pig (vehicle of D4NNI1) moved wrongly! 3.660657218997841
+[03:15:32] [main/WARN]: Found 1 non-fabric mod:
+	- skinrestorer-2.2.1+1.20-forge.jar
+[03:15:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/videosdaniel/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:15:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:15:39] [main/INFO]: Loaded 7 recipes
+[03:15:39] [main/INFO]: Loaded 1271 advancements
+[03:15:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:15:39] [Server thread/INFO]: Loading properties
+[03:15:39] [Server thread/INFO]: Default game type: SURVIVAL
+[03:15:39] [Server thread/INFO]: Generating keypair
+[03:15:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:15:40] [Server thread/INFO]: Using epoll channel type
+[03:15:40] [Server thread/INFO]: Preparing level "world"
+[03:15:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:15:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:15:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:15:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:15:42] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[03:15:43] [Worker-Main-3/INFO]: Preparing spawn area: 71%
+[03:15:43] [Server thread/INFO]: Time elapsed: 3153 ms
+[03:15:43] [Server thread/INFO]: Done (3.321s)! For help, type "help"
+[03:19:06] [User Authenticator #1/INFO]: UUID of player D4NNI1 is 30212862-edb7-4632-9904-33933410e508
+[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:19:06] [Server thread/INFO]: D4NNI1[/127.14.216.183:43353] logged in with entity id 7 at (-135.02765237606368, 10.121296840539191, 285.9616339975505)
+[03:19:06] [Server thread/INFO]: D4NNI1 joined the game
+[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:19:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:19:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:19:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:19:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:19:26] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:19:43] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:19:50] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:19:53] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[03:19:55] [Server thread/INFO]: D4NNI1 was killed by magic
+[03:20:08] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:20:21] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[03:20:22] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:20:24] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[03:20:26] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:20:29] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[03:20:32] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:20:43] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[03:20:44] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:20:48] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[03:20:51] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:21:27] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[03:21:29] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:21:30] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[03:21:31] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:21:33] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:21:46] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:21:48] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:22:37] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:22:39] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:24:01] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:24:03] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:24:39] [Server thread/INFO]: [D4NNI1: Set spawn point to -137, 10, 286 [0.0] in minecraft:overworld for D4NNI1]
+[03:24:50] [Server thread/INFO]: D4NNI1 lost connection: Disconnected
+[03:24:50] [Server thread/INFO]: D4NNI1 left the game
+[03:25:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@30348e1e[id=<null>,name=Relaaan,properties={},legacy=false] (/127.126.18.237:34079) lost connection: Disconnected
