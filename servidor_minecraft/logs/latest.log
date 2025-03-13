@@ -135,3 +135,170 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
 [02:24:00] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:24:08] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:24:13] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:24:48] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:24:49] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:24:59] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:25:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:25:01] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:25:31] [Server thread/INFO]: [D4NNI1: Successfully filled 3 block(s)]
+[02:26:43] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:26:53] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:27:27] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:27:32] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:27:56] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:28:03] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:28:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[02:28:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:28:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[02:28:10] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:28:32] [Server thread/INFO]: [D4NNI1: The difficulty has been set to Peaceful]
+[02:28:34] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:28:41] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:28:48] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:28:52] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:28:53] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:29:03] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:29:10] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:29:13] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:29:22] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:29:32] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:29:38] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:29:50] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:29:55] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:30:00] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:30:03] [Server thread/INFO]: Felinel9 tried to swim in lava
+[02:30:08] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:30:28] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:30:32] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:30:51] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[02:30:51] [Server thread/INFO]: [D4NNI1: Set Xanec_UwU's game mode to Survival Mode]
+[02:30:51] [Server thread/INFO]: [D4NNI1: Set Felinel9's game mode to Survival Mode]
+[02:30:53] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:31:06] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:31:10] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:31:21] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:31:37] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:31:59] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:32:06] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:32:11] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:32:18] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:32:30] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:32:40] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:32:41] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:32:51] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:32:55] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[02:33:00] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:33:01] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:33:09] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:33:24] [Server thread/WARN]: D4NNI1 moved too quickly! 10.328472390489928,0.0,-0.5348526802761029
+[02:33:32] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:33:35] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
+[02:33:36] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:33:38] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:33:38] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:33:45] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:33:51] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:33:59] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:34:02] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:34:04] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:34:06] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:34:10] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:34:17] [Server thread/INFO]: Felinel9 was killed by magic
+[02:34:19] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:34:25] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:34:36] [Server thread/INFO]: Felinel9 was killed by magic
+[02:34:44] [Server thread/INFO]: Felinel9 was killed by magic
+[02:34:46] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:34:51] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:34:55] [Server thread/INFO]: [D4NNI1: Teleported Xanec_UwU to D4NNI1]
+[02:34:56] [Server thread/INFO]: Felinel9 was killed by magic whilst trying to escape Xanec_UwU
+[02:35:14] [Server thread/INFO]: Felinel9 was killed by magic
+[02:35:20] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:35:24] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:35:26] [Server thread/INFO]: Felinel9 was killed by magic
+[02:35:26] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:35:34] [Server thread/INFO]: Felinel9 was killed by magic
+[02:35:42] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:35:49] [Server thread/INFO]: Felinel9 was killed by magic
+[02:35:51] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:35:59] [Server thread/INFO]: Felinel9 was killed by magic
+[02:36:01] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:36:11] [Server thread/INFO]: Felinel9 was killed by magic
+[02:36:22] [Server thread/INFO]: Felinel9 was killed by magic
+[02:36:30] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:36:35] [Server thread/INFO]: Felinel9 was killed by magic
+[02:36:47] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:36:48] [Server thread/INFO]: Felinel9 was killed by magic
+[02:36:53] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:36:57] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:36:58] [Server thread/INFO]: Felinel9 was killed by magic
+[02:36:58] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:37:05] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:37:08] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:37:14] [Server thread/INFO]: Felinel9 was killed by magic
+[02:37:17] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:37:18] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:37:23] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:37:37] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:37:42] [Server thread/INFO]: Felinel9 was killed by magic
+[02:37:49] [Server thread/INFO]: Felinel9 was killed by magic
+[02:38:01] [Server thread/INFO]: Xanec_UwU has reached the goal [Sky's the Limit]
+[02:38:06] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:38:06] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:38:07] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:38:26] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:38:39] [Server thread/INFO]: Felinel9 has reached the goal [Sky's the Limit]
+[02:38:46] [Server thread/INFO]: Felinel9 was killed by magic
+[02:39:01] [Server thread/INFO]: Felinel9 was killed by magic
+[02:39:17] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:39:18] [Server thread/INFO]: Felinel9 was killed by magic
+[02:39:37] [Server thread/INFO]: Xanec_UwU has made the advancement [Ice Bucket Challenge]
+[02:39:37] [Server thread/INFO]: Felinel9 was killed by magic
+[02:39:39] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:39:39] [Server thread/INFO]: [D4NNI1: Set Xanec_UwU's game mode to Adventure Mode]
+[02:39:39] [Server thread/INFO]: [D4NNI1: Set Felinel9's game mode to Adventure Mode]
+[02:39:42] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:39:47] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:39:58] [Server thread/INFO]: Felinel9 was killed by magic
+[02:40:05] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Felinel9]
+[02:40:07] [Server thread/INFO]: Felinel9 was killed by magic
+[02:40:26] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:40:29] [Server thread/INFO]: Felinel9 was killed by magic
+[02:40:33] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[02:40:33] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:40:37] [Server thread/INFO]: [D4NNI1: Teleported D4NNI1 to Xanec_UwU]
+[02:40:40] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:40:50] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:40:53] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[02:40:53] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:40:55] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:41:02] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:41:05] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:41:06] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:41:09] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:41:11] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:41:27] [Server thread/INFO]: Felinel9 has made the advancement [Ice Bucket Challenge]
+[02:41:38] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
+[02:41:51] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
+[02:42:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[02:42:03] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:42:06] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
+[02:42:20] [Server thread/INFO]: [D4NNI1: Changed the block at 158, 3, 338]
+[02:42:29] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:42:41] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[02:43:34] [Server thread/INFO]: [D4NNI1: The difficulty has been set to Hard]
+[02:43:45] [Server thread/INFO]: Xanec_UwU has made the advancement [Sneak 100]
+[02:43:47] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:43:49] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:43:51] [Server thread/INFO]: Felinel9 was slain by Warden
+[02:43:56] [Server thread/INFO]: Xanec_UwU was slain by Warden
+[02:44:02] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:44:04] [Server thread/WARN]: D4NNI1 moved too quickly! 0.24625492193027299,-11.026982712340192,0.5838002457035145
+[02:44:04] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[02:44:13] [Server thread/INFO]: Xanec_UwU was killed by magic
+[02:44:13] [Server thread/INFO]: [D4NNI1: The difficulty has been set to Peaceful]
+[02:44:14] [Server thread/INFO]: Felinel9 was killed by magic
+[02:44:17] [Server thread/INFO]: [D4NNI1: Set own game mode to Adventure Mode]
+[02:44:27] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
