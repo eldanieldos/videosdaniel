@@ -1,73 +1,93 @@
-[03:15:32] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[03:15:32] [main/INFO]: Loading 4 mods:
+[03:27:50] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[03:27:50] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 17
 	- minecraft 1.20.1
-[03:15:32] [main/WARN]: Found 1 non-fabric mod:
+[03:27:50] [main/WARN]: Found 1 non-fabric mod:
 	- skinrestorer-2.2.1+1.20-forge.jar
-[03:15:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/videosdaniel/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:15:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:15:39] [main/INFO]: Loaded 7 recipes
-[03:15:39] [main/INFO]: Loaded 1271 advancements
-[03:15:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:15:39] [Server thread/INFO]: Loading properties
-[03:15:39] [Server thread/INFO]: Default game type: SURVIVAL
-[03:15:39] [Server thread/INFO]: Generating keypair
-[03:15:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:15:40] [Server thread/INFO]: Using epoll channel type
-[03:15:40] [Server thread/INFO]: Preparing level "world"
-[03:15:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:15:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:15:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:15:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:15:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:15:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:15:42] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[03:15:43] [Worker-Main-3/INFO]: Preparing spawn area: 71%
-[03:15:43] [Server thread/INFO]: Time elapsed: 3153 ms
-[03:15:43] [Server thread/INFO]: Done (3.321s)! For help, type "help"
-[03:19:06] [User Authenticator #1/INFO]: UUID of player D4NNI1 is 30212862-edb7-4632-9904-33933410e508
-[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:19:06] [Server thread/INFO]: D4NNI1[/127.14.216.183:43353] logged in with entity id 7 at (-135.02765237606368, 10.121296840539191, 285.9616339975505)
-[03:19:06] [Server thread/INFO]: D4NNI1 joined the game
-[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[03:19:06] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:19:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[03:19:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:19:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[03:19:07] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[03:19:26] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:19:43] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[03:19:50] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:19:53] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[03:19:55] [Server thread/INFO]: D4NNI1 was killed by magic
-[03:20:08] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[03:20:21] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[03:20:22] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:20:24] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[03:20:26] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:20:29] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[03:20:32] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[03:20:43] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[03:20:44] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:20:48] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[03:20:51] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[03:21:27] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[03:21:29] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:21:30] [Server thread/INFO]: [D4NNI1: Set own game mode to Survival Mode]
-[03:21:31] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:21:33] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[03:21:46] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:21:48] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[03:22:37] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:22:39] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[03:24:01] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
-[03:24:03] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
-[03:24:39] [Server thread/INFO]: [D4NNI1: Set spawn point to -137, 10, 286 [0.0] in minecraft:overworld for D4NNI1]
-[03:24:50] [Server thread/INFO]: D4NNI1 lost connection: Disconnected
-[03:24:50] [Server thread/INFO]: D4NNI1 left the game
-[03:25:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@30348e1e[id=<null>,name=Relaaan,properties={},legacy=false] (/127.126.18.237:34079) lost connection: Disconnected
+[03:27:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/videosdaniel/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:27:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:27:57] [main/INFO]: Loaded 7 recipes
+[03:27:57] [main/INFO]: Loaded 1271 advancements
+[03:27:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:27:58] [Server thread/INFO]: Loading properties
+[03:27:58] [Server thread/INFO]: Default game type: SURVIVAL
+[03:27:58] [Server thread/INFO]: Generating keypair
+[03:27:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:27:58] [Server thread/INFO]: Using epoll channel type
+[03:27:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:27:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:27:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:27:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:27:58] [Server thread/INFO]: Preparing level "world"
+[03:27:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:28:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:28:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:28:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:01] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[03:28:02] [Worker-Main-1/INFO]: Preparing spawn area: 95%
+[03:28:02] [Server thread/INFO]: Time elapsed: 3526 ms
+[03:28:02] [Server thread/INFO]: Done (3.662s)! For help, type "help"
+[03:28:15] [Server thread/INFO]: Relaaan[/127.126.18.237:42119] logged in with entity id 7 at (2.5, 4.0, 3.5)
+[03:28:15] [Server thread/INFO]: Relaaan joined the game
+[03:29:27] [Server thread/INFO]: GalixA[/127.136.29.23:58913] logged in with entity id 51 at (4.5, 2.0, 11.5)
+[03:29:27] [Server thread/INFO]: GalixA joined the game
+[03:29:31] [Server thread/INFO]: D4NNI1[/127.14.216.183:56115] logged in with entity id 52 at (7.5, 4.0, 13.5)
+[03:29:31] [Server thread/INFO]: D4NNI1 joined the game
+[03:29:37] [Server thread/INFO]: GalixA lost connection: Disconnected
+[03:29:37] [Server thread/INFO]: GalixA left the game
+[03:30:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-3, y=3, z=3}
+[03:30:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=3, z=3}
+[03:30:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-2, y=3, z=3}
+[03:30:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=0, y=3, z=3}
+[03:30:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=3, z=0}
+[03:30:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=2, z=3}
+[03:30:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=7, y=3, z=2}
+[03:30:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=7, y=3, z=2}
+[03:30:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=7, y=3, z=2}
+[03:30:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=10, y=1, z=2}
+[03:30:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=9, y=1, z=2}
+[03:30:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=2, z=3}
+[03:30:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=2, z=3}
+[03:30:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=1, z=3}
+[03:30:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=2, z=3}
+[03:30:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=1, z=3}
+[03:30:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=1, z=3}
+[03:30:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=1, z=3}
+[03:30:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=1, z=3}
+[03:30:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=1, z=3}
+[03:30:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=6, y=1, z=3}
+[03:31:48] [Server thread/INFO]: Relaaan drowned
+[03:31:59] [Server thread/INFO]: Made D4NNI1 a server operator
+[03:32:06] [Server thread/INFO]: GalixA[/127.136.29.23:41681] logged in with entity id 61 at (4.5, 2.0, 11.5)
+[03:32:06] [Server thread/INFO]: GalixA joined the game
+[03:32:15] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:32:25] [Server thread/INFO]: D4NNI1 was killed
+[03:32:25] [Server thread/INFO]: GalixA was killed
+[03:32:25] [Server thread/INFO]: [D4NNI1: Killed 3 entities]
+[03:32:26] [Server thread/INFO]: GalixA lost connection: Disconnected
+[03:32:26] [Server thread/INFO]: GalixA left the game
+[03:32:32] [Server thread/WARN]: D4NNI1 moved too quickly! -6.132955300269117,0.0,19.570981176673143
+[03:32:34] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:32:51] [Server thread/INFO]: [D4NNI1: Set spawn point to -137, 10, 286 [0.0] in minecraft:overworld for 2 players]
+[03:32:58] [Server thread/INFO]: D4NNI1 was killed
+[03:32:58] [Server thread/INFO]: [D4NNI1: Killed D4NNI1]
+[03:33:13] [Server thread/INFO]: [D4NNI1: Set spawn point to -137, 10, 286 [0.0] in minecraft:overworld for 2 players]
+[03:34:09] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:34:11] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:34:36] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:34:37] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:34:39] [Server thread/INFO]: [D4NNI1: Set own game mode to Spectator Mode]
+[03:35:19] [Server thread/INFO]: GalixA[/127.136.29.23:42141] logged in with entity id 377 at (4.5, 2.0, 11.5)
+[03:35:19] [Server thread/INFO]: GalixA joined the game
+[03:35:28] [Server thread/INFO]: D4NNI1 was killed
+[03:35:28] [Server thread/INFO]: [D4NNI1: Killed D4NNI1]
+[03:35:32] [Server thread/INFO]: [D4NNI1: Set own game mode to Creative Mode]
+[03:35:44] [Server thread/INFO]: [D4NNI1: Teleported 3 entities to D4NNI1]
+[03:35:52] [Server thread/INFO]: [D4NNI1: Set spawn point to -139, 10, 284 [0.0] in minecraft:overworld for 3 players]
+[03:37:22] [Server thread/INFO]: D4NNI1 lost connection: Disconnected
+[03:37:22] [Server thread/INFO]: D4NNI1 left the game
